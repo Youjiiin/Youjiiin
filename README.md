@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=I'm%20Youjiiin&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B0D9B1&height=180&text=I'm%20Youjiiin&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Youjin🙌 </h2>  
