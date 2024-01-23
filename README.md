@@ -3,6 +3,11 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Youjin🙌 </h2>  
+            <h4> 🌱 I’m currently learning ...</h4>
+        <div style="text-align: left;">
+            <p>📌 Algorithm with Python</p>
+            <p>📌 TypeScript</p>
+        </div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
@@ -21,8 +26,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-      <div align= "center">  
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youjiiin&layout=compact"><br>
+      <div align= "center"> 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youjiiin&layout=compact">
           <img src="https://github-readme-stats.vercel.app/api?username=Youjiiin&show_icons=true">
       </div> 
     </div>
