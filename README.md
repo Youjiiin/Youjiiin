@@ -6,7 +6,7 @@
             <h4> 🌱 I’m currently learning ...</h4>
         <div style="text-align: left;">
             <p>📌 Algorithm with Python</p>
-            <p>📌 TypeScript  </p>
+            <p>📌 TypeScript </p>
             <p>📌 JavaScript </p>
             <p>📌 React </p>
         </div>
