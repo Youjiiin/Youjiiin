@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Youjin🙌 </h2>  
             <h4> 🌱 I’m currently learning ...</h4>
         <div style="text-align: left;">
-            <p>📌 Algorithm with Python</p>
+            <p>📌 Algorithm with Python </p>
             <p>📌 TypeScript </p>
             <p>📌 JavaScript </p>
             <p>📌 React </p>
