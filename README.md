@@ -7,6 +7,7 @@
         <div style="text-align: left;">
             <p>📌 Algorithm with Python </p>
             <p>📌 TypeScript </p>
+            <p>📌 Webpack </p>
             <p>📌 React with TypeScript </p>
             <p>📌 JavaScript </p>
         </div>
