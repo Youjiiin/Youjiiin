@@ -11,7 +11,6 @@
 <p> 📌 Algorithm with Python </p>
 <p> 📌 React with TypeScript </p>
 <p> 📌 Redux </p>
-<p> 📌 CSS in JS </p>
     
 </div>
     
