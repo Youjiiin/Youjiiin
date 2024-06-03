@@ -10,7 +10,7 @@
 <h3> I’m currently learning ...🙋‍♀️</h3>
 <p> 📌 Algorithm with Python </p>
 <p> 📌 React with TypeScript </p>
-<p> 📌 Redux </p>
+<p> 📌 State Management with Redux </p>
     
 </div>
     
