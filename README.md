@@ -8,9 +8,10 @@
 ----
 
 <h3> I’m currently learning ...🙋‍♀️</h3>
-<p> 📌 Algorithm with Python </p>
+<p> 📌 Algorithm with Python/JS </p>
 <p> 📌 React with TypeScript </p>
-<p> 📌 State Management with Redux </p>
+<p> 📌 HTML/CSS </p>
+<p> 📌 JS with DeepDive </p>
     
 </div>
     
