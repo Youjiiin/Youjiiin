@@ -2,7 +2,7 @@
 
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks 🛠️ </h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,react,redux,git,github,notion" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,react,redux,styledcomponents,tailwind,figma,git,github,notion" /> 
 </a>
 
 ----
