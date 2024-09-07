@@ -11,7 +11,7 @@
 <p> 📌 Algorithm with Python/JS </p>
 <p> 📌 React with TypeScript </p>
 <p> 📌 HTML/CSS </p>
-<p> 📌 JS with DeepDive </p>
+<p> 📌 JavaScript </p>
     
 </div>
     
