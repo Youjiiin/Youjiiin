@@ -8,10 +8,9 @@
 ----
 
 <h3> I’m currently learning ...🙋‍♀️</h3>
+<p> 📌 JavaScript </p>
 <p> 📌 Algorithm with Python/JS </p>
 <p> 📌 React with TypeScript </p>
-<p> 📌 HTML/CSS </p>
-<p> 📌 JavaScript </p>
     
 </div>
     
