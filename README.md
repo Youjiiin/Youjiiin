@@ -20,6 +20,7 @@
 <p> 📌 JavaScript </p>
 <p> 📌 Algorithm with Python/JS </p>
 <p> 📌 React with TypeScript </p>
+<p> 📌 React Native </p>
     
 </div>
     
