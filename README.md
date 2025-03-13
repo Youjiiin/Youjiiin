@@ -13,6 +13,7 @@
 | [미팅해요 동물의 숲](https://animalmeeting.vercel.app/)        | 축제 부스 운영을 위한 동물상 측정 & 미팅 신청 서비스                     | [미팅해요 동물의 숲 Repository](https://github.com/animal-meeting-re/front)                                       |
 | 온도(Ondo)                | 복지카드(서울 꿈나무 카드, 문화누리카드) 가맹점 AI 추천 서비스 (with ChatGPT) | [온도 Repository](https://github.com/SeSACthon-Ondo/Ondo)                                                       |
 | [ShareFood(셰푸)](https://sharefoood.netlify.app)                | 식재료 공유 플랫폼 | [ShareFood Repository](https://github.com/FRONTENDBOOTCAMP-11th/ShareFood)                                                       |
+| Mercury(머큐리)                | 간단한 독서기록 앱 | [Mercury Repository(Web)](https://github.com/Central-MakeUs/Mercury-Web)                                                       |
 
 
 
